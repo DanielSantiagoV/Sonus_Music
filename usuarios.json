@@ -1,0 +1,122 @@
+[
+  {
+    "_id": "usuario_001",
+    "nombre": "Maria",
+    "correo": "maria@gmail.com",
+    "ciudad": "Madrid",
+    "pais": "España",
+    "suscripcion": "Premium",
+    "fecha_registro": "2020-03-15",
+    "generos_favoritos": ["Pop", "Rock", "R&B"]
+  },
+  {
+    "_id": "usuario_002",
+    "nombre": "John",
+    "correo": "john123@hotmail.com",
+    "ciudad": "New York",
+    "pais": "Estados Unidos",
+    "suscripcion": "Free",
+    "fecha_registro": "2019-11-22",
+    "generos_favoritos": ["Rock", "Alternative"]
+  },
+  {
+    "_id": "usuario_003",
+    "nombre": "Ana",
+    "correo": "ana.music@yahoo.com",
+    "ciudad": "Barcelona",
+    "pais": "España",
+    "suscripcion": "Premium",
+    "fecha_registro": "2021-01-10",
+    "generos_favoritos": ["Pop Latino", "R&B"]
+  },
+  {
+    "_id": "usuario_004",
+    "nombre": "Carlos",
+    "correo": "carlos2020@gmail.com",
+    "ciudad": "México",
+    "pais": "México",
+    "suscripcion": "Premium",
+    "fecha_registro": "2020-06-08",
+    "generos_favoritos": ["Rock", "Punk Rock"]
+  },
+  {
+    "_id": "usuario_005",
+    "nombre": "Sarah",
+    "correo": "sarah.smith@outlook.com",
+    "ciudad": "London",
+    "pais": "Reino Unido",
+    "suscripcion": "Free",
+    "fecha_registro": "2018-09-14",
+    "generos_favoritos": ["Pop", "Alternative Rock"]
+  },
+  {
+    "_id": "usuario_006",
+    "nombre": "Lucas",
+    "correo": "lucas99@gmail.com",
+    "ciudad": "Buenos Aires",
+    "pais": "Argentina",
+    "suscripcion": "Premium",
+    "fecha_registro": "2021-02-28",
+    "generos_favoritos": ["Rock", "Pop Latino"]
+  },
+  {
+    "_id": "usuario_007",
+    "nombre": "Emma",
+    "correo": "emma.wilson@icloud.com",
+    "ciudad": "Toronto",
+    "pais": "Canadá",
+    "suscripcion": "Premium",
+    "fecha_registro": "2020-12-03",
+    "generos_favoritos": ["R&B", "Pop"]
+  },
+  {
+    "_id": "usuario_008",
+    "nombre": "David",
+    "correo": "david.music@gmail.com",
+    "ciudad": "Madrid",
+    "pais": "España",
+    "suscripcion": "Free",
+    "fecha_registro": "2019-04-17",
+    "generos_favoritos": ["Alternative Rock", "Rock"]
+  },
+  {
+    "_id": "usuario_009",
+    "nombre": "Lisa",
+    "correo": "lisa2021@hotmail.com",
+    "ciudad": "Miami",
+    "pais": "Estados Unidos",
+    "suscripcion": "Premium",
+    "fecha_registro": "2021-03-20",
+    "generos_favoritos": ["Pop Latino", "R&B"]
+  },
+  {
+    "_id": "usuario_010",
+    "nombre": "Pedro",
+    "correo": "pedro.rock@gmail.com",
+    "ciudad": "Sevilla",
+    "pais": "España",
+    "suscripcion": "Premium",
+    "fecha_registro": "2020-08-12",
+    "generos_favoritos": ["Rock", "Punk Rock"]
+  },
+  {
+    "_id": "usuario_011",
+    "nombre": "Sophie",
+    "correo": "sophie.martin@yahoo.com",
+    "ciudad": "Paris",
+    "pais": "Francia",
+    "suscripcion": "Free",
+    "fecha_registro": "2019-07-25",
+    "generos_favoritos": ["Pop", "Alternative Rock"]
+  },
+  {
+    "_id": "usuario_012",
+    "nombre": "Alex",
+    "correo": "alex.dj@gmail.com",
+    "ciudad": "Berlin",
+    "pais": "Alemania",
+    "suscripcion": "Premium",
+    "fecha_registro": "2021-05-30",
+    "generos_favoritos": ["Alternative Rock", "Rock"]
+  }
+] 

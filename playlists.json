@@ -1,0 +1,134 @@
+[
+  {
+    "_id": "playlist_001",
+    "nombre": "🎵 Party Vibes 🎉",
+    "descripcion": "Perfect for dancing and having fun with friends",
+    "usuario_creador_id": "usuario_001",
+    "usuario_creador": "Maria",
+    "canciones_incluidas": ["cancion_003", "cancion_004", "cancion_009"],
+    "genero_principal": "Pop",
+    "duracion_total": "11:39",
+    "fecha_creacion": "2023-01-15"
+  },
+  {
+    "_id": "playlist_002",
+    "nombre": "Rock Classics",
+    "descripcion": "The best rock songs of all time",
+    "usuario_creador_id": "usuario_002",
+    "usuario_creador": "John",
+    "canciones_incluidas": ["cancion_001", "cancion_006", "cancion_010", "cancion_012"],
+    "genero_principal": "Rock",
+    "duracion_total": "22:02",
+    "fecha_creacion": "2022-11-20"
+  },
+  {
+    "_id": "playlist_003",
+    "nombre": "💕 Love Songs 💕",
+    "descripcion": "Perfect for romantic moments",
+    "usuario_creador_id": "usuario_003",
+    "usuario_creador": "Ana",
+    "canciones_incluidas": ["cancion_002", "cancion_008", "cancion_015"],
+    "genero_principal": "Pop",
+    "duracion_total": "12:09",
+    "fecha_creacion": "2023-02-14"
+  },
+  {
+    "_id": "playlist_004",
+    "nombre": "Punk Rock Energy",
+    "descripcion": "High energy punk rock for workouts",
+    "usuario_creador_id": "usuario_004",
+    "usuario_creador": "Carlos",
+    "canciones_incluidas": ["cancion_005"],
+    "genero_principal": "Punk Rock",
+    "duracion_total": "2:48",
+    "fecha_creacion": "2022-08-10"
+  },
+  {
+    "_id": "playlist_005",
+    "nombre": "Alternative Mix",
+    "descripcion": "Perfect for studying and relaxing",
+    "usuario_creador_id": "usuario_005",
+    "usuario_creador": "Sarah",
+    "canciones_incluidas": ["cancion_008", "cancion_011", "cancion_013"],
+    "genero_principal": "Alternative Rock",
+    "duracion_total": "11:36",
+    "fecha_creacion": "2022-09-05"
+  },
+  {
+    "_id": "playlist_006",
+    "nombre": "Latino Groove",
+    "descripcion": "The best Latin music hits",
+    "usuario_creador_id": "usuario_006",
+    "usuario_creador": "Lucas",
+    "canciones_incluidas": ["cancion_007"],
+    "genero_principal": "Pop Latino",
+    "duracion_total": "3:52",
+    "fecha_creacion": "2023-03-01"
+  },
+  {
+    "_id": "playlist_007",
+    "nombre": "R&B Soul",
+    "descripcion": "Smooth R&B and soul music",
+    "usuario_creador_id": "usuario_007",
+    "usuario_creador": "Emma",
+    "canciones_incluidas": ["cancion_004", "cancion_009", "cancion_014"],
+    "genero_principal": "R&B",
+    "duracion_total": "10:21",
+    "fecha_creacion": "2022-12-08"
+  },
+  {
+    "_id": "playlist_008",
+    "nombre": "Workout Beats",
+    "descripcion": "Perfect for gym sessions and running",
+    "usuario_creador_id": "usuario_008",
+    "usuario_creador": "David",
+    "canciones_incluidas": ["cancion_011", "cancion_005"],
+    "genero_principal": "Alternative Rock",
+    "duracion_total": "5:54",
+    "fecha_creacion": "2023-01-30"
+  },
+  {
+    "_id": "playlist_009",
+    "nombre": "Summer Hits",
+    "descripcion": "Perfect for beach days and road trips",
+    "usuario_creador_id": "usuario_009",
+    "usuario_creador": "Lisa",
+    "canciones_incluidas": ["cancion_003", "cancion_004", "cancion_008"],
+    "genero_principal": "Pop",
+    "duracion_total": "11:42",
+    "fecha_creacion": "2023-06-15"
+  },
+  {
+    "_id": "playlist_010",
+    "nombre": "Classic Rock",
+    "descripcion": "Timeless rock anthems",
+    "usuario_creador_id": "usuario_010",
+    "usuario_creador": "Pedro",
+    "canciones_incluidas": ["cancion_001", "cancion_010", "cancion_012"],
+    "genero_principal": "Rock",
+    "duracion_total": "16:51",
+    "fecha_creacion": "2022-07-22"
+  },
+  {
+    "_id": "playlist_011",
+    "nombre": "Chill Vibes",
+    "descripcion": "Perfect for meditation and relaxation",
+    "usuario_creador_id": "usuario_011",
+    "usuario_creador": "Sophie",
+    "canciones_incluidas": ["cancion_008", "cancion_013"],
+    "genero_principal": "Alternative Rock",
+    "duracion_total": "8:30",
+    "fecha_creacion": "2023-04-12"
+  },
+  {
+    "_id": "playlist_012",
+    "nombre": "Party Mix 2023",
+    "descripcion": "The hottest party songs of the year",
+    "usuario_creador_id": "usuario_012",
+    "usuario_creador": "Alex",
+    "canciones_incluidas": ["cancion_003", "cancion_004", "cancion_009", "cancion_014"],
+    "genero_principal": "Pop",
+    "duracion_total": "14:34",
+    "fecha_creacion": "2023-01-01"
+  }
+] 
