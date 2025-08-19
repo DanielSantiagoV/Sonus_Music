@@ -125,7 +125,7 @@ mongosh
 
 ### 2. Crear y Usar la Base de Datos
 ```bash
-use music_platform
+use sonus_music
 ```
 
 ### 3. Crear las Colecciones
@@ -267,7 +267,7 @@ Verificar que la base de datos y colecciones se crearon correctamente
 ### 2. Crear la Base de Datos
 
 ```bash
-use music_platform
+use sonus_music
 ```
 
 ### 3. Crear las Colecciones
@@ -292,7 +292,7 @@ Crear índices en los campos principales para optimizar las consultas:
 #### Opción A: Usando MongoDB Compass
 1. Abre MongoDB Compass
 2. Conéctate a tu base de datos
-3. Selecciona la base de datos `music_platform`
+3. Selecciona la base de datos `sonus_music`
 4. Selecciona cada colección
 5. Haz clic en "Add Data" → "Import File"
 6. Selecciona el archivo JSON correspondiente
@@ -305,19 +305,19 @@ Crear índices en los campos principales para optimizar las consultas:
 #### Opción B: Usando línea de comandos
 ```bash
 # Importar artistas
-mongoimport --db music_platform --collection artistas --file artistas.json --jsonArray
+mongoimport --db sonus_music --collection artistas --file artistas.json --jsonArray
 
 # Importar álbumes
-mongoimport --db music_platform --collection albumes --file albumes.json --jsonArray
+mongoimport --db sonus-music --collection albumes --file albumes.json --jsonArray
 
 # Importar canciones
-mongoimport --db music_platform --collection canciones --file canciones.json --jsonArray
+mongoimport --db sonus_music --collection canciones --file canciones.json --jsonArray
 
 # Importar usuarios
-mongoimport --db music_platform --collection usuarios --file usuarios.json --jsonArray
+mongoimport --db sonus_music --collection usuarios --file usuarios.json --jsonArray
 
 # Importar playlists
-mongoimport --db music_platform --collection playlists --file playlists.json --jsonArray
+mongoimport --db sonus_music --collection playlists --file playlists.json --jsonArray
 ```
 
 ### 6. Verificar la Importación
