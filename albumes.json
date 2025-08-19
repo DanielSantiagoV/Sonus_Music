@@ -1,0 +1,167 @@
+[
+  {
+    "_id": "album_001",
+    "titulo": "Abbey Road",
+    "año": "1969",
+    "artista_id": "artista_001",
+    "artista": "The Beatles",
+    "genero": "Rock",
+    "sello": "Apple Records",
+    "tracks": 17,
+    "duracion_total": "47:23"
+  },
+  {
+    "_id": "album_002",
+    "titulo": "Songs About Jane",
+    "año": "2002",
+    "artista_id": "artista_002",
+    "artista": "Maroon 5",
+    "genero": "Pop Rock",
+    "sello": "Octone Records",
+    "tracks": 12,
+    "duracion_total": "52:50"
+  },
+  {
+    "_id": "album_003",
+    "titulo": "÷ (Divide)",
+    "año": "2017",
+    "artista_id": "artista_003",
+    "artista": "Ed Sheeran",
+    "genero": "Pop",
+    "sello": "Asylum Records",
+    "tracks": 16,
+    "duracion_total": "46:14"
+  },
+  {
+    "_id": "album_004",
+    "titulo": "After Hours",
+    "año": "2020",
+    "artista_id": "artista_004",
+    "artista": "The Weeknd",
+    "genero": "R&B",
+    "sello": "XO Records",
+    "tracks": 14,
+    "duracion_total": "56:19"
+  },
+  {
+    "_id": "album_005",
+    "titulo": "Enema of the State",
+    "año": "1999",
+    "artista_id": "artista_005",
+    "artista": "Blink-182",
+    "genero": "Punk Rock",
+    "sello": "MCA Records",
+    "tracks": 12,
+    "duracion_total": "35:20"
+  },
+  {
+    "_id": "album_006",
+    "titulo": "The Joshua Tree",
+    "año": "1987",
+    "artista_id": "artista_006",
+    "artista": "U2",
+    "genero": "Rock",
+    "sello": "Island Records",
+    "tracks": 11,
+    "duracion_total": "50:11"
+  },
+  {
+    "_id": "album_007",
+    "titulo": "Pies Descalzos",
+    "año": "1995",
+    "artista_id": "artista_007",
+    "artista": "Shakira",
+    "genero": "Pop Latino",
+    "sello": "Sony Music",
+    "tracks": 10,
+    "duracion_total": "41:30"
+  },
+  {
+    "_id": "album_008",
+    "titulo": "Parachutes",
+    "año": "2000",
+    "artista_id": "artista_008",
+    "artista": "Coldplay",
+    "genero": "Alternative Rock",
+    "sello": "Parlophone Records",
+    "tracks": 10,
+    "duracion_total": "41:44"
+  },
+  {
+    "_id": "album_009",
+    "titulo": "Lemonade",
+    "año": "2016",
+    "artista_id": "artista_009",
+    "artista": "Beyoncé",
+    "genero": "R&B",
+    "sello": "Parkwood Entertainment",
+    "tracks": 12,
+    "duracion_total": "45:49"
+  },
+  {
+    "_id": "album_010",
+    "titulo": "Exile on Main St.",
+    "año": "1972",
+    "artista_id": "artista_010",
+    "artista": "The Rolling Stones",
+    "genero": "Rock",
+    "sello": "Rolling Stones Records",
+    "tracks": 18,
+    "duracion_total": "67:07"
+  },
+  {
+    "_id": "album_011",
+    "titulo": "Night Visions",
+    "año": "2012",
+    "artista_id": "artista_011",
+    "artista": "Imagine Dragons",
+    "genero": "Alternative Rock",
+    "sello": "Interscope Records",
+    "tracks": 15,
+    "duracion_total": "50:47"
+  },
+  {
+    "_id": "album_012",
+    "titulo": "A Night at the Opera",
+    "año": "1975",
+    "artista_id": "artista_012",
+    "artista": "Queen",
+    "genero": "Rock",
+    "sello": "EMI Records",
+    "tracks": 12,
+    "duracion_total": "43:10"
+  },
+  {
+    "_id": "album_013",
+    "titulo": "Viva la Vida",
+    "año": "2008",
+    "artista_id": "artista_008",
+    "artista": "Coldplay",
+    "genero": "Alternative Rock",
+    "sello": "Parlophone Records",
+    "tracks": 10,
+    "duracion_total": "45:53"
+  },
+  {
+    "_id": "album_014",
+    "titulo": "Blinding Lights",
+    "año": "2021",
+    "artista_id": "artista_004",
+    "artista": "The Weeknd",
+    "genero": "R&B",
+    "sello": "XO Records",
+    "tracks": 16,
+    "duracion_total": "48:15"
+  },
+  {
+    "_id": "album_015",
+    "titulo": "Perfect Timing",
+    "año": "2022",
+    "artista_id": "artista_003",
+    "artista": "Ed Sheeran",
+    "genero": "Pop",
+    "sello": "Atlantic Records",
+    "tracks": 14,
+    "duracion_total": "52:30"
+  }
+] 

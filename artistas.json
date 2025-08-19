@@ -1,0 +1,158 @@
+[
+  {
+    "_id": "artista_001",
+    "nombre": "The Beatles",
+    "pais": "Reino Unido",
+    "genero": "Rock",
+    "redes_sociales": {
+      "instagram": "@thebeatles",
+      "twitter": "@thebeatles",
+      "facebook": "TheBeatles"
+    },
+    "activo": false,
+    "fecha_debut": "1960"
+  },
+  {
+    "_id": "artista_002",
+    "nombre": "Maroon 5",
+    "pais": "Estados Unidos",
+    "genero": "Pop Rock",
+    "redes_sociales": {
+      "instagram": "@maroon5",
+      "twitter": "@maroon5",
+      "facebook": "Maroon5"
+    },
+    "activo": true,
+    "fecha_debut": "1994"
+  },
+  {
+    "_id": "artista_003",
+    "nombre": "Ed Sheeran",
+    "pais": "Reino Unido",
+    "genero": "Pop",
+    "redes_sociales": {
+      "instagram": "@teddysphotos",
+      "twitter": "@edsheeran",
+      "facebook": "EdSheeran"
+    },
+    "activo": true,
+    "fecha_debut": "2004"
+  },
+  {
+    "_id": "artista_004",
+    "nombre": "The Weeknd",
+    "pais": "Canadá",
+    "genero": "R&B",
+    "redes_sociales": {
+      "instagram": "@theweeknd",
+      "twitter": "@theweeknd",
+      "facebook": "TheWeeknd"
+    },
+    "activo": true,
+    "fecha_debut": "2010"
+  },
+  {
+    "_id": "artista_005",
+    "nombre": "Blink-182",
+    "pais": "Estados Unidos",
+    "genero": "Punk Rock",
+    "redes_sociales": {
+      "instagram": "@blink182",
+      "twitter": "@blink182",
+      "facebook": "Blink182"
+    },
+    "activo": true,
+    "fecha_debut": "1992"
+  },
+  {
+    "_id": "artista_006",
+    "nombre": "U2",
+    "pais": "Irlanda",
+    "genero": "Rock",
+    "redes_sociales": {
+      "instagram": "@u2",
+      "twitter": "@u2",
+      "facebook": "U2"
+    },
+    "activo": true,
+    "fecha_debut": "1976"
+  },
+  {
+    "_id": "artista_007",
+    "nombre": "Shakira",
+    "pais": "Colombia",
+    "genero": "Pop Latino",
+    "redes_sociales": {
+      "instagram": "@shakira",
+      "twitter": "@shakira",
+      "facebook": "Shakira"
+    },
+    "activo": true,
+    "fecha_debut": "1990"
+  },
+  {
+    "_id": "artista_008",
+    "nombre": "Coldplay",
+    "pais": "Reino Unido",
+    "genero": "Alternative Rock",
+    "redes_sociales": {
+      "instagram": "@coldplay",
+      "twitter": "@coldplay",
+      "facebook": "Coldplay"
+    },
+    "activo": true,
+    "fecha_debut": "1996"
+  },
+  {
+    "_id": "artista_009",
+    "nombre": "Beyoncé",
+    "pais": "Estados Unidos",
+    "genero": "R&B",
+    "redes_sociales": {
+      "instagram": "@beyonce",
+      "twitter": "@Beyonce",
+      "facebook": "Beyonce"
+    },
+    "activo": true,
+    "fecha_debut": "1997"
+  },
+  {
+    "_id": "artista_010",
+    "nombre": "The Rolling Stones",
+    "pais": "Reino Unido",
+    "genero": "Rock",
+    "redes_sociales": {
+      "instagram": "@therollingstones",
+      "twitter": "@RollingStones",
+      "facebook": "TheRollingStones"
+    },
+    "activo": true,
+    "fecha_debut": "1962"
+  },
+  {
+    "_id": "artista_011",
+    "nombre": "Imagine Dragons",
+    "pais": "Estados Unidos",
+    "genero": "Alternative Rock",
+    "redes_sociales": {
+      "instagram": "@imaginedragons",
+      "twitter": "@Imaginedragons",
+      "facebook": "ImagineDragons"
+    },
+    "activo": true,
+    "fecha_debut": "2008"
+  },
+  {
+    "_id": "artista_012",
+    "nombre": "Queen",
+    "pais": "Reino Unido",
+    "genero": "Rock",
+    "redes_sociales": {
+      "instagram": "@queen",
+      "twitter": "@QueenWillRock",
+      "facebook": "Queen"
+    },
+    "activo": false,
+    "fecha_debut": "1970"
+  }
+] 

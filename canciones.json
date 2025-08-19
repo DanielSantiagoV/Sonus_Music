@@ -1,0 +1,167 @@
+[
+  {
+    "_id": "cancion_001",
+    "titulo": "Hey Jude",
+    "duracion": "7:11",
+    "artista_id": "artista_001",
+    "artista": "The Beatles",
+    "album_id": "album_001",
+    "album": "Abbey Road",
+    "genero": "Rock",
+    "letra": "Hey Jude, don't be afraid. Take a sad song and make it better. Remember to let her into your heart, then you can start to make it better."
+  },
+  {
+    "_id": "cancion_002",
+    "titulo": "She Will Be Loved",
+    "duracion": "4:17",
+    "artista_id": "artista_002",
+    "artista": "Maroon 5",
+    "album_id": "album_002",
+    "album": "Songs About Jane",
+    "genero": "Pop Rock",
+    "letra": "Beauty queen of only eighteen, she had some trouble with herself. He was always there to help her, she always belonged to someone else."
+  },
+  {
+    "_id": "cancion_003",
+    "titulo": "Shape of You",
+    "duracion": "3:53",
+    "artista_id": "artista_003",
+    "artista": "Ed Sheeran",
+    "album_id": "album_003",
+    "album": "÷ (Divide)",
+    "genero": "Pop",
+    "letra": "The club isn't the best place to find a lover, so the bar is where I go. Me and my friends at the table doing shots, drinking fast and then we talk slow."
+  },
+  {
+    "_id": "cancion_004",
+    "titulo": "Blinding Lights",
+    "duracion": "3:20",
+    "artista_id": "artista_004",
+    "artista": "The Weeknd",
+    "album_id": "album_004",
+    "album": "After Hours",
+    "genero": "R&B",
+    "letra": "I've been tryna call, I've been on my own for long enough. Maybe you can show me how to love, maybe. I'm going through withdrawals, you don't even have to do too much."
+  },
+  {
+    "_id": "cancion_005",
+    "titulo": "All the Small Things",
+    "duracion": "2:48",
+    "artista_id": "artista_005",
+    "artista": "Blink-182",
+    "album_id": "album_005",
+    "album": "Enema of the State",
+    "genero": "Punk Rock",
+    "letra": "All the small things, true care, truth brings. I'll take one lift, your ride, best trip. Always I know, you'll be at my show, watching, waiting, commiserating."
+  },
+  {
+    "_id": "cancion_006",
+    "titulo": "With or Without You",
+    "duracion": "4:56",
+    "artista_id": "artista_006",
+    "artista": "U2",
+    "album_id": "album_006",
+    "album": "The Joshua Tree",
+    "genero": "Rock",
+    "letra": "See the stone set in your eyes, see the thorn twist in your side. I wait for you, sleight of hand and twist of fate. On a bed of nails she makes me wait."
+  },
+  {
+    "_id": "cancion_007",
+    "titulo": "Estoy Aquí",
+    "duracion": "3:52",
+    "artista_id": "artista_007",
+    "artista": "Shakira",
+    "album_id": "album_007",
+    "album": "Pies Descalzos",
+    "genero": "Pop Latino",
+    "letra": "Estoy aquí, esperando que llegues, que me digas que me quieres. Estoy aquí, soñando con tu amor, con tu amor, con tu amor."
+  },
+  {
+    "_id": "cancion_008",
+    "titulo": "Yellow",
+    "duracion": "4:29",
+    "artista_id": "artista_008",
+    "artista": "Coldplay",
+    "album_id": "album_008",
+    "album": "Parachutes",
+    "genero": "Alternative Rock",
+    "letra": "Look at the stars, look how they shine for you, and everything you do. Yeah, they were all yellow. I came along, I wrote a song for you, and all the things you do."
+  },
+  {
+    "_id": "cancion_009",
+    "titulo": "Formation",
+    "duracion": "3:26",
+    "artista_id": "artista_009",
+    "artista": "Beyoncé",
+    "album_id": "album_009",
+    "album": "Lemonade",
+    "genero": "R&B",
+    "letra": "Y'all haters corny with that illuminati mess. Paparazzi, catch my fly, and my cocky fresh. I'm so reckless when I rock my Givenchy dress. I'm so possessive so I rock his Roc necklaces."
+  },
+  {
+    "_id": "cancion_010",
+    "titulo": "Tumbling Dice",
+    "duracion": "3:45",
+    "artista_id": "artista_010",
+    "artista": "The Rolling Stones",
+    "album_id": "album_010",
+    "album": "Exile on Main St.",
+    "genero": "Rock",
+    "letra": "Women think I'm tasty, but they're always tryin' to waste me. And make me burn the candle right down. But baby, baby, I don't need no jewels in my crown."
+  },
+  {
+    "_id": "cancion_011",
+    "titulo": "Radioactive",
+    "duracion": "3:06",
+    "artista_id": "artista_011",
+    "artista": "Imagine Dragons",
+    "album_id": "album_011",
+    "album": "Night Visions",
+    "genero": "Alternative Rock",
+    "letra": "I'm waking up to ash and dust, I wipe my brow and I sweat my rust. I'm breathing in the chemicals. I'm breaking in, shaping up, then checking out on the prison bus."
+  },
+  {
+    "_id": "cancion_012",
+    "titulo": "Bohemian Rhapsody",
+    "duracion": "5:55",
+    "artista_id": "artista_012",
+    "artista": "Queen",
+    "album_id": "album_012",
+    "album": "A Night at the Opera",
+    "genero": "Rock",
+    "letra": "Is this the real life? Is this just fantasy? Caught in a landslide, no escape from reality. Open your eyes, look up to the skies and see. I'm just a poor boy, I need no sympathy."
+  },
+  {
+    "_id": "cancion_013",
+    "titulo": "Viva la Vida",
+    "duracion": "4:01",
+    "artista_id": "artista_008",
+    "artista": "Coldplay",
+    "album_id": "album_013",
+    "album": "Viva la Vida",
+    "genero": "Alternative Rock",
+    "letra": "I used to rule the world, seas would rise when I gave the word. Now in the morning I sleep alone, sweep the streets I used to own. I used to roll the dice, feel the fear in my enemy's eyes."
+  },
+  {
+    "_id": "cancion_014",
+    "titulo": "Save Your Tears",
+    "duracion": "3:35",
+    "artista_id": "artista_004",
+    "artista": "The Weeknd",
+    "album_id": "album_014",
+    "album": "Blinding Lights",
+    "genero": "R&B",
+    "letra": "I saw you dancing in a crowded room, you look so happy when I'm not with you. But then you saw me, caught you by surprise. A single teardrop falling from your eye."
+  },
+  {
+    "_id": "cancion_015",
+    "titulo": "Perfect",
+    "duracion": "4:23",
+    "artista_id": "artista_003",
+    "artista": "Ed Sheeran",
+    "album_id": "album_015",
+    "album": "Perfect Timing",
+    "genero": "Pop",
+    "letra": "We found love right where we are. We found love right where we are. We found love right where we are. We found love right where we are."
+  }
+] 
